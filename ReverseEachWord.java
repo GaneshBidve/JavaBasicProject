@@ -1,4 +1,4 @@
-package com.reverseProject;
+package com.reverseProject.gb;
 
 public class ReverseEachWord {
     public static void main(String[] args) {
